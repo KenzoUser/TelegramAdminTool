@@ -25,14 +25,14 @@
     <string name="input_edit_chat_about">Enter chat description</string>
     <string name="titleEditChatDescription">Chat description</string>
     <string name="action_ban_user">Ban user</string>
-    <string name="action_set_as_admin">Add to admin</string>
-    <string name="action_remove_user_from_chat">Remove user from chat</string>
-    <string name="action_manage_group">Manage chat</string>
-    <string name="action_manage_chat_users">Manage users</string>
+    <string name="action_set_as_admin">הוסף מנהל</string>
+    <string name="action_remove_user_from_chat">הסר את המשתמש מהצאט</string>
+    <string name="action_manage_group">נהל צאט</string>
+    <string name="action_manage_chat_users">נהל משתמשים</string>
     <string name="action_banlist">Ban-list</string>
-    <string name="btnContinue">Continue</string>
-    <string name="create_group">Create group</string>
-    <string name="create_supergroup">Create supergroup</string>
+    <string name="btnContinue">המשך</string>
+    <string name="create_group">צור קבוצה</string>
+    <string name="create_supergroup">צור סופר-קבוצה</string>
 
     <string name="noteAntispamLinks">Note: Rules ignored for admins.</string>
     <string name="toast_chat_link_added">Link changed</string>
